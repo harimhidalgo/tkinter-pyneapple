@@ -1,0 +1,5 @@
+rectime: 5
+pdfpath: C:\Path\to\your\PDFs\folder_name
+pdfname: Merged_file
+pdfkeep: False (recommended)
+laupath: C:\Path\to\your\Excel\file.xlsx
